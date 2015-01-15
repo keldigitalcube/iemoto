@@ -24,7 +24,7 @@ mkdir ~/.grunt-init
 
 ### Install Iemoto
 
-Get this templates via git.
+Get these templates via git.
 
 ```
 git clone git@github.com:megumiteam/iemoto.git ~/.grunt-init/iemoto
@@ -89,7 +89,7 @@ Please answer the following:
 [?] Do you need to make any changes to the above before continuing? (y/N)
 ```
 
-In the end of this procedure, you will be asked if there's any changes. Type `N` or enter key to create the templates.
+At the end of this procedure, you will be asked if there's any changes. Type `N` or enter key to create the templates.
 
 When asked `[?] Use gulp? (y/N) `, type `y` to create files you need for gulp. It's `N` by default.
 
@@ -101,7 +101,7 @@ npm install
 
 Files to be installed are defined in `package.json` file.
 
-Once you are done to this point, you can see all the files created as below.
+Once you are done at this point, you can see all the files created as below.
 
 ```
 ├── _sass
@@ -185,7 +185,7 @@ Create you own theme now.
 
 You can set default values to the `grunt-init` prompt.
 
-It will be more usefull if name and URL.
+It will be more useful if there is a name and URL.
 
 To set default values, put defaults.json and edit it.
 
@@ -236,7 +236,7 @@ When grunt(gulp)ed, the version specified in package.json will be implemented in
 
 ### Debug mode and Sourcemap
 
-If WP_DEBUG is true, theme will load `css/style.css`, which has Sourcemap integrated, instead of `style.css`, which is the Sourcemap-ommited version of the `css/style.css`.
+If WP_DEBUG is true, theme will load `css/style.css`, which has Sourcemap integrated, instead of `style.css`, which is the Sourcemap-omitted version of the `css/style.css`.
 
 Sourcemap is available if your Sass version is greater than 3.3.0.
 
@@ -245,9 +245,9 @@ Sourcemap is available if your Sass version is greater than 3.3.0.
 
 svn:ignore `node_modules` directory
 
-## Feedbacks
+## Feedback
 
-Feedbacks are very much welcome!
+Feedback are very much welcome!
 
 * https://github.com/megumiteam/iemoto/issues
 
